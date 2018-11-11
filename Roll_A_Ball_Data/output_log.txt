@@ -1,0 +1,56 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Radeon HD 5400 Series (ID=0x68f9)
+    Vendor:   ATI
+    VRAM:     1012 MB
+    Driver:   8.762.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\WEI\Documents\Roll a Ball\Build\Roll_A_Ball_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.345482 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 22e8 -> priority: 1 
+  Thread -> id: 2140 -> priority: 1 
+  Thread -> id: 2660 -> priority: 1 
+  Thread -> id: 2784 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.306336 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 356.
+Total: 0.398958 ms (FindLiveObjects: 0.038396 ms CreateObjectMapping: 0.040956 ms MarkObjects: 0.284866 ms  DeleteObjects: 0.034008 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.646159 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.542305 ms (FindLiveObjects: 0.032545 ms CreateObjectMapping: 0.044247 ms MarkObjects: 0.312657 ms  DeleteObjects: 0.151757 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.583262 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 0.390182 ms (FindLiveObjects: 0.040224 ms CreateObjectMapping: 0.041322 ms MarkObjects: 0.284134 ms  DeleteObjects: 0.023403 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.642136 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.522924 ms (FindLiveObjects: 0.031814 ms CreateObjectMapping: 0.039493 ms MarkObjects: 0.305344 ms  DeleteObjects: 0.145906 ms)
+
